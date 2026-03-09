@@ -37,9 +37,10 @@ available providers are:
 AUSPASS     https://auspass.edu.au
 BGR         https://eida.bgr.de
 BGS         https://eida.bgs.ac.uk
-EARTHSCOPE  https://service.iris.edu
+EARTHSCOPE  https://service.earthscope.org
 EIDA        http://eida-federator.ethz.ch
 EMSC        https://www.seismicportal.eu
+EPOSFR      https://seisdata.epos-france.fr
 ETH         https://eida.ethz.ch
 GEOFON      https://geofon.gfz.de
 GEONET      https://service.geonet.org.nz
@@ -49,9 +50,9 @@ IESDMC      http://batsws.earth.sinica.edu.tw
 IGN         http://fdsnws.sismologia.ign.es
 INGV        https://webservices.ingv.it
 IPGP        https://ws.ipgp.fr
-IRIS        https://service.iris.edu
-IRISDMC     https://service.iris.edu
-IRISPH5     https://service.iris.edu
+IRIS        https://service.earthscope.org
+IRISDMC     https://service.earthscope.org
+IRISPH5     https://service.earthscope.org
 ISC         https://www.isc.ac.uk
 KAGSR       http://sdis.emsd.ru
 KNMI        https://rdsa.knmi.nl
@@ -65,7 +66,6 @@ ODC         https://www.orfeus-eu.org
 ORFEUS      https://www.orfeus-eu.org
 RASPISHAKE  https://data.raspberryshake.org
 RESIF       https://ws.resif.fr
-RESIFPH5    http://ph5ws.resif.fr
 SCEDC       https://service.scedc.caltech.edu
 TEXNET      http://rtserve.beg.utexas.edu
 UIB-NORSAR  https://eida.geo.uib.no
@@ -166,7 +166,7 @@ only support the ``dataselect`` and the ``station`` FDSNWS services.
 ObsPy has support for two routing services:
 
 (i) The `EarthScope (former IRIS) Federator
-    <https://service.iris.edu/irisws/fedcatalog/1/>`_.
+    <https://service.earthscope.org/irisws/fedcatalog/1/>`_.
 (ii) The `EIDAWS Routing Service
      <http://www.orfeus-eu.org/data/eida/webservices/routing/>`_.
 

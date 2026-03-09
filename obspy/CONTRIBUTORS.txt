@@ -75,6 +75,7 @@ Macpherson, Kenneth
 Maggi, Alessia
 Martin, Henri
 Massin, Frederick
+McPherson, Amanda M.
 Medlin, Andrew
 Megies, Tobias
 Meschede, Matthias
@@ -138,5 +139,6 @@ Winder, Tom
 Winkelman, Andrew
 Yamamoto, Yukio
 Zaccarelli, Riccardo
+Zacherle, Pavel
 Zad, Seyed Kasra Hosseini
 Zhu, Lijun
